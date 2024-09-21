@@ -1,13 +1,13 @@
 # Estou a prendendo linguagem Markdown no curso em Vídeo de Git e GitHub.
 *** 
-Negrito: **Markdown** ou __Markdown__
-Itálico: *Markdown*
-Rasurado: ~Markdown~
-Título (h1): # Título. Deve haver um espaço entre a marcação e o título . O marcador deve estar no início da linha.
-Título (h2): ## Título. 
-Título (h3): ### Título. 
-Linha: --- ou ***. Só funciona se vier logo abaixo de um título. Tem que ter um espaço ao final da marcação.
-Podemos __*misturar*__ as configurações.
+Negrito: **Markdown** ou __Markdown__  
+Itálico: *Markdown*  
+Rasurado: ~Markdown~  
+Título (h1): # Título. Deve haver um espaço entre a marcação e o título . O marcador deve estar no início da linha.  
+Título (h2): ## Título.   
+Título (h3): ### Título.  
+Linha: --- ou ***. Só funciona se vier logo abaixo de um título. Tem que ter um espaço ao final da marcação.  
+Podemos __*misturar*__ as configurações.  
 ## Listas:
 Lista Numerada: 
 *obs: Para sub-lista, dar 3 espaços no início da linha.*
@@ -42,8 +42,10 @@ Lista de Tarefas:
 - [x] Ler livro "entendendo Algoritimos";
 - [ ] Ler o livro de c++;
 
-Colocando Imagens. Para inserir imagens basta arrastar o arquivo de imagem para a edição. Será feito o upload automático como abaixo:
+### Colocando Imagens.  
+Para inserir imagens basta arrastar o arquivo de imagem para a edição. Será feito o upload automático como abaixo:
 ![chrome_Tu0ERzaprX](https://github.com/user-attachments/assets/c8294325-7de4-4133-86dd-2ddeca792a34)
 
-Inserir links. Basta colcoar o marcador [](). Onde dentro de [] será a descrição, e dentro de () o link. Veja abaixo:  
+### Inserir links.  
+Basta colcoar o marcador \[](). Onde dentro de [] será a descrição, e dentro de () o link. Veja abaixo:  
 [AncapSU](https://www.youtube.com/@ancap_su)
