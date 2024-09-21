@@ -70,5 +70,9 @@ else
    print(f'O valor {num} é Impar)
 ```
 ### Inserir emojis:  
-Usar o marcador : e o nome do emoji. Exemplo \:sul
-Olá pequeno desenvolvedor 🖖
+Usar o marcador : e o nome do emoji. Exemplo \:speak_no_evi:  
+Olá pequeno desenvolvedor 🖖 :clown_face: :poop: :see_no_evil: :hear_no_evil: :speak_no_evil:
+
+### Inserir emojis nos títulos das Issues.   
+Vá até o site [Emoji Pedia](https://emojipedia.org/). Escolha um emoji e copie-o através do botão copy. Volte na Issue e edite o título dela colando o emoji: 🙃
+
