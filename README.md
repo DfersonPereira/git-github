@@ -69,3 +69,6 @@ if num % 2 == 0:
 else
    print(f'O valor {num} é Impar)
 ```
+### Inserir emojis:  
+Usar o marcador : e o nome do emoji. Exemplo \:sul
+Olá pequeno desenvolvedor 🖖
