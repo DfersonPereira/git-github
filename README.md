@@ -41,3 +41,9 @@ Lista de Tarefas:
 - [ ] Aprender GitHub via Terminal;
 - [x] Ler livro "entendendo Algoritimos";
 - [ ] Ler o livro de c++;
+
+Colocando Imagens. Para inserir imagens basta arrastar o arquivo de imagem para a edição. Será feito o upload automático como abaixo:
+![chrome_Tu0ERzaprX](https://github.com/user-attachments/assets/c8294325-7de4-4133-86dd-2ddeca792a34)
+
+Inserir links. Basta colcoar o marcador [](). Onde dentro de [] será a descrição, e dentro de () o link. Veja abaixo:  
+[AncapSU](https://www.youtube.com/@ancap_su)
