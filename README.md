@@ -37,7 +37,7 @@ Lista Demarcada:
 * Macarrão;
 
 Lista de Tarefas:
-***[ ]** Aprender GitHub Desktop;
-***[ ]** Aprender GitHub via Terminal;
-***[ ]** Ler livro "entendendo Algoritimos";
-***[ ]** Ler o livro de c++;
+- [x] Aprender GitHub Desktop;
+- [ ] Aprender GitHub via Terminal;
+- [x] Ler livro "entendendo Algoritimos";
+- [ ] Ler o livro de c++;
