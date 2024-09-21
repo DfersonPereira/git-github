@@ -57,3 +57,15 @@ Num|Nome|Nota
 02|Fulano|7.6
 03|Beltrano|4.5
 04|Cicrano|1.6
+
+### Inserir trechos de códigos com fonte monoespaçado.  
+Basta colocar dentro de crases:  
+Não entendo para que serve o comando `document.getElementById()` da linguagem JavaScript.
+Para um trecho, usar três crases:  
+```
+num = int(input('Digite um valor'))
+if num % 2 == 0:
+   print(f'O valor {num} é Par')
+else
+   print(f'O valor {num} é Impar)
+```
