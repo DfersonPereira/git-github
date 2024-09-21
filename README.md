@@ -49,3 +49,11 @@ Para inserir imagens basta arrastar o arquivo de imagem para a edição. Será f
 ### Inserir links.  
 Basta colcoar o marcador \[](). Onde dentro de [] será a descrição, e dentro de () o link. Veja abaixo:  
 [AncapSU](https://www.youtube.com/@ancap_su)
+
+### Criando tabelas:
+Num|Nome|Nota
+---|---|---
+01|Dferson|9.8
+02|Fulano|7.6
+03|Beltrano|4.5
+04|Cicrano|1.6
