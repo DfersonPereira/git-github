@@ -26,3 +26,12 @@ Lista Numerada:
    2. Doce
 9. Presunto
 10. Manteiga
+
+Lista Demarcada:
+* Leite;
+* Ovo;
+* Arroz:
+  * Integral;
+  * Agulhinha;
+  * Tipo A;
+* Macarrão;
